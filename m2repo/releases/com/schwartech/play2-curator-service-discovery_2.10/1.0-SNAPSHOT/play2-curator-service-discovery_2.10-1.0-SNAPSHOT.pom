@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>play2-curator-service-discovery</groupId>
+    <groupId>com.schwartech</groupId>
     <artifactId>play2-curator-service-discovery_2.10</artifactId>
     <packaging>jar</packaging>
     <description>play2-curator-service-discovery</description>
     <version>1.0-SNAPSHOT</version>
     <name>play2-curator-service-discovery</name>
     <organization>
-        <name>play2-curator-service-discovery</name>
+        <name>com.schwartech</name>
     </organization>
     <dependencies>
         <dependency>
